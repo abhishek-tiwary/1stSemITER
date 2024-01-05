@@ -52,7 +52,5 @@ public class Q7_BillPayment {
             }
 
         sc.close();
-
     }
-    
 }
