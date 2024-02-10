@@ -14,6 +14,7 @@ public class Q01_NumberLoop {
 		c=sc.nextInt();
         sc.close();
 		
+		
 		for(i=a; i<=b; i=i+c)
 		{
 			System.out.print(i + " ");
